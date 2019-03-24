@@ -1,1 +1,3 @@
-### Welcome to learn-byte.com  Clone this repo to get started.
+### Welcome to learn-byte.com!  
+
+#### To get started, clone this repo.
