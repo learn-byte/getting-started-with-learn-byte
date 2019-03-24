@@ -1,1 +1,1 @@
-learn-byte.com course, readme.  Start here!
+### Welcome to learn-byte.com  Clone this repo to get started.
